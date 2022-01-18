@@ -29,3 +29,24 @@ https://www.blender.org/
 
 blender 3d 2.80 版本以后，2d动画模块功能惊艳，特别是跟3d建模结合。
 
+
+# 软件工具类
+changeprversion
+
+https://github.com/lhy2871/changeprversion
+
+改变Pr工程文件的版本号，使得高版本Pr创建的工程文件可被低版本打开。
+
+
+music2demo
+
+https://github.com/lhy2871/music2demo
+
+批量为音乐添加水印。媒体制作者向甲方提供样片时，可以通过此软件为音频加上水印，以防被白嫖。
+
+
+audioremux
+
+https://github.com/lhy2871/audioRemux
+
+批量封装音频，例如将6个单声道的wav文件封装为一个5.1声道的wav文件等。
