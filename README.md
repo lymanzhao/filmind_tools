@@ -19,6 +19,8 @@ https://github.com/wonderunit/storyboarder
 
 专注故事板，国内已有一些公司在使用了。
 
+本人在使用的时候结合davinci进行精简配音等。
+
 
 Allusion
 
