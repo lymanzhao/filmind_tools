@@ -20,6 +20,30 @@ https://github.com/wonderunit/storyboarder
 专注故事板，国内已有一些公司在使用了。
 
 
+Allusion
+
+很好用的图片参考软件。
+
+https://allusion-app.github.io/
+
+
+krita
+
+新版本的krita在速度和画笔体验上已经与主流商业绘画软件一样了。
+
+https://krita.org/zh/
+
+
+# 视频
+
+mrViewer
+
+非常好的视频和序列回放工具，除了界面老，功能完全不属于RV。
+
+https://mrviewer.sourceforge.io/
+
+
+
 
 # 三维
 
@@ -28,6 +52,32 @@ Blender 3d
 https://www.blender.org/
 
 blender 3d 2.80 版本以后，2d动画模块功能惊艳，特别是跟3d建模结合。
+
+
+Meshroom 
+
+三维重建软件
+
+https://github.com/alicevision/meshroom
+
+
+F3D
+
+快速三维文件预览，可以嵌入系统文件浏览器。
+
+https://f3d-app.github.io/f3d/
+
+
+
+# 流程管理
+
+OpenPYPE
+
+资产和流程管理，已经很好用了，可选整合FTrack。
+
+https://openpype.io/
+
+
 
 
 # 软件工具类
